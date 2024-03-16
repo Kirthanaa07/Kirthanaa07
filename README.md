@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-##Abou Me:
+## Abou Me:
 
 As a dedicated stay-at-home mom, I embarked on an inspiring journey to fulfill my passion for technology and software development. Armed with a Master of Computer Application (MCA) degree and having previously contributed two years as an Associate Engineer at Virtusa Hyderabad, I decided to pivot my career. My experience in production support equipped me with valuable problem-solving and technical skills, which I am now eager to leverage in the field of software development. This transition represents not only my commitment to personal and professional growth but also my unwavering dedication to providing the best opportunities for my family. With a foundation in engineering, a love for coding, and a strong work ethic, I am excited to embark on this new chapter as I strive to become a successful software developer.
 
-##My Journey:
+## My Journey:
 
 Nashville Software School has been an incredible and transformative experience. From the moment I stepped into the program, I was greeted with a supportive and collaborative environment that fostered both personal and professional growth. Over the course of my time at NSS, I've had the privilege of immersing myself in the world of software development, gaining hands-on experience in front-end and back-end technologies such as React.js, JavaScript, Python, and Django. The program's intensive curriculum, coupled with the guidance of dedicated instructors and the camaraderie of fellow students, has allowed me to not only acquire essential technical skills but also develop problem-solving abilities and a deep appreciation for the art of coding. As I look back on my journey, I am proud of the projects I've contributed to and the challenges I've overcome. The skills and knowledge I've acquired during my time at NSS have not only prepared me for a successful career in software development but have also ignited a passion for continuous learning and innovation.
